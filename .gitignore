@@ -1,0 +1,30 @@
+# Flask
+*.pyc
+__pycache__/
+
+# Flask-SQLAlchemy
+*.sqlite
+
+# Flask-WTF
+*.pycache
+
+# Flask-Migrate
+*.alembic
+
+# Virtual environment
+.venv/
+env/
+venv/
+
+# IDE-specific files
+.idea/
+.vscode/
+
+# Log files
+*.log
+
+# Environment variables
+.env
+
+# Node.js
+node_modules/

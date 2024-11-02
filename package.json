@@ -1,0 +1,19 @@
+{
+  "name": "flask-flowbite",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build:css": "npx tailwindcss -i ./static/src/input.css -o ./static/dist/css/main.css --watch"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "flowbite": "^2.5.1"
+  },
+  "devDependencies": {
+    "tailwindcss": "^3.4.8"
+  }
+}
