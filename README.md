@@ -2,6 +2,8 @@
 
 This is a demo Flask application that integrates Flowbite for UI components. The application is designed to demonstrate how to set up a basic Flask app with Flowbite styling.
 
+![Flask app with Flowbite](banner.png)
+
 ## Prerequisites
 
 -   [Node.js](https://nodejs.org/) and [npm](https://www.npmjs.com/) (for [Flowbite](https://flowbite.com/) and [Tailwind CSS](https://tailwindcss.com/))
@@ -13,7 +15,7 @@ This is a demo Flask application that integrates Flowbite for UI components. The
 ### 1. Clone the Repository
 
 ```bash
-git clone <repository-url>
+git clone https://github.com/naylin-dev/flask-flowbite.git
 cd flask-flowbite
 ```
 
