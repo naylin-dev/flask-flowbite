@@ -6,9 +6,9 @@ This is a demo Flask application that integrates Flowbite for UI components. The
 
 ## Prerequisites
 
--   [Node.js](https://nodejs.org/) and [npm](https://www.npmjs.com/) (for [Flowbite](https://flowbite.com/) and [Tailwind CSS](https://tailwindcss.com/))
--   [uv](https://docs.astral.sh/uv/) An extremely fast Python package and project manager, written in Rust. (Recommended)
--   [Python](https://www.python.org/) 3.12 or higher (Note: If using uv, it will automatically install Python 3.12 if not present on your system)
+- [Node.js](https://nodejs.org/) and [npm](https://www.npmjs.com/) (for [Flowbite](https://flowbite.com/) and [Tailwind CSS](https://tailwindcss.com/))
+- [uv](https://docs.astral.sh/uv/) An extremely fast Python package and project manager, written in Rust. (Recommended)
+- [Python](https://www.python.org/) 3.12 or higher (Note: If using uv, it will automatically install Python 3.12 if not present on your system)
 
 ## Setup Instructions
 
@@ -75,7 +75,7 @@ npm run build:css
 python app.py
 ```
 
-The application will be available at http://127.0.0.1:5000.
+The application will be available at <http://127.0.0.1:5000>.
 
 ## Project Structure
 
@@ -94,6 +94,6 @@ flask-flowbite/
 
 ## Dependencies
 
--   [Flask](https://flask.palletsprojects.com/) - 3.0.3
--   [Flowbite](https://flowbite.com/) - 2.5.1
--   [Tailwind CSS](https://tailwindcss.com/) - 3.4.8
+- [Flask](https://flask.palletsprojects.com/) - 3.0.3
+- [Flowbite](https://flowbite.com/) - 2.5.1
+- [Tailwind CSS](https://tailwindcss.com/) - 3.4.8
